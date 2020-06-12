@@ -1,0 +1,13 @@
+C:\Users\dejai_000\Desktop\MétodoContrutivo\bin\Debug\netcoreapp3.1\MétodoContrutivo.exe
+C:\Users\dejai_000\Desktop\MétodoContrutivo\bin\Debug\netcoreapp3.1\MétodoContrutivo.deps.json
+C:\Users\dejai_000\Desktop\MétodoContrutivo\bin\Debug\netcoreapp3.1\MétodoContrutivo.runtimeconfig.json
+C:\Users\dejai_000\Desktop\MétodoContrutivo\bin\Debug\netcoreapp3.1\MétodoContrutivo.runtimeconfig.dev.json
+C:\Users\dejai_000\Desktop\MétodoContrutivo\bin\Debug\netcoreapp3.1\MétodoContrutivo.dll
+C:\Users\dejai_000\Desktop\MétodoContrutivo\bin\Debug\netcoreapp3.1\MétodoContrutivo.pdb
+C:\Users\dejai_000\Desktop\MétodoContrutivo\obj\Debug\netcoreapp3.1\MétodoContrutivo.csprojAssemblyReference.cache
+C:\Users\dejai_000\Desktop\MétodoContrutivo\obj\Debug\netcoreapp3.1\MétodoContrutivo.csproj.CoreCompileInputs.cache
+C:\Users\dejai_000\Desktop\MétodoContrutivo\obj\Debug\netcoreapp3.1\MétodoContrutivo.AssemblyInfoInputs.cache
+C:\Users\dejai_000\Desktop\MétodoContrutivo\obj\Debug\netcoreapp3.1\MétodoContrutivo.AssemblyInfo.cs
+C:\Users\dejai_000\Desktop\MétodoContrutivo\obj\Debug\netcoreapp3.1\MétodoContrutivo.dll
+C:\Users\dejai_000\Desktop\MétodoContrutivo\obj\Debug\netcoreapp3.1\MétodoContrutivo.pdb
+C:\Users\dejai_000\Desktop\MétodoContrutivo\obj\Debug\netcoreapp3.1\MétodoContrutivo.genruntimeconfig.cache
